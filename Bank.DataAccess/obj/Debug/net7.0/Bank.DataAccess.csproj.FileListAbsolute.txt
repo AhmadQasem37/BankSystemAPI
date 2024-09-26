@@ -1,0 +1,28 @@
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.deps.json
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.runtimeconfig.json
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.csproj.AssemblyReference.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.AssemblyInfoInputs.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.AssemblyInfo.cs
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/refint/Bank.DataAccess.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.genruntimeconfig.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.DataAccess/obj/Debug/net7.0/ref/Bank.DataAccess.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.deps.json
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.runtimeconfig.json
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/bin/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.csproj.AssemblyReference.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.AssemblyInfoInputs.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.AssemblyInfo.cs
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/refint/Bank.DataAccess.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/Bank.DataAccess.genruntimeconfig.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/Debug/net7.0/ref/Bank.DataAccess.dll

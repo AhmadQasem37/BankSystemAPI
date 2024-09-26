@@ -1,0 +1,34 @@
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.deps.json
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.pdb
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.AssemblyReference.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.AssemblyInfoInputs.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.AssemblyInfo.cs
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.CoreCompileInputs.cache
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/refint/Bank.Business.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.pdb
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/ref/Bank.Business.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.runtimeconfig.json
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/bin/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.CopyComplete
+/Users/ahmadqasem/Desktop/untitled folder/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.genruntimeconfig.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.deps.json
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.runtimeconfig.json
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.Business.pdb
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.DataAccess.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/bin/Debug/net7.0/Bank.DataAccess.pdb
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.AssemblyReference.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.AssemblyInfoInputs.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.AssemblyInfo.cs
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.CoreCompileInputs.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.csproj.CopyComplete
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/refint/Bank.Business.dll
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.pdb
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/Bank.Business.genruntimeconfig.cache
+/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/Debug/net7.0/ref/Bank.Business.dll
