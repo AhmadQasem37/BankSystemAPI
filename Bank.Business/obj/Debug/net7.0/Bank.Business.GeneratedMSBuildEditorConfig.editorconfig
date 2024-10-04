@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bank.Business
-build_property.ProjectDir = /Users/ahmadqasem/ahmad/Bank/Bank.Business/
+build_property.ProjectDir = /Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/

@@ -3244,11 +3244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/Bank.DataAccess.csproj",
+      "projectUniqueName": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.DataAccess/Bank.DataAccess.csproj",
       "projectName": "Bank.DataAccess",
-      "projectPath": "/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/Bank.DataAccess.csproj",
+      "projectPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.DataAccess/Bank.DataAccess.csproj",
       "packagesPath": "/Users/ahmadqasem/.nuget/packages/",
-      "outputPath": "/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/obj/",
+      "outputPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmadqasem/.nuget/NuGet/NuGet.Config"

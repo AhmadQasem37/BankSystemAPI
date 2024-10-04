@@ -3269,11 +3269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadqasem/ahmad/Bank/Bank.Business/Bank.Business.csproj",
+      "projectUniqueName": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/Bank.Business.csproj",
       "projectName": "Bank.Business",
-      "projectPath": "/Users/ahmadqasem/ahmad/Bank/Bank.Business/Bank.Business.csproj",
+      "projectPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/Bank.Business.csproj",
       "packagesPath": "/Users/ahmadqasem/.nuget/packages/",
-      "outputPath": "/Users/ahmadqasem/ahmad/Bank/Bank.Business/obj/",
+      "outputPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmadqasem/.nuget/NuGet/NuGet.Config"
@@ -3288,8 +3288,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/Bank.DataAccess.csproj": {
-              "projectPath": "/Users/ahmadqasem/ahmad/Bank/Bank.DataAccess/Bank.DataAccess.csproj"
+            "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.DataAccess/Bank.DataAccess.csproj": {
+              "projectPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.DataAccess/Bank.DataAccess.csproj"
             }
           }
         }

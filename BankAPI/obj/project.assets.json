@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadqasem/ahmad/Bank/BankAPI/BankAPI.csproj",
+      "projectUniqueName": "/Users/ahmadqasem/Desktop/BankSystemAPI/BankAPI/BankAPI.csproj",
       "projectName": "BankAPI",
-      "projectPath": "/Users/ahmadqasem/ahmad/Bank/BankAPI/BankAPI.csproj",
+      "projectPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/BankAPI/BankAPI.csproj",
       "packagesPath": "/Users/ahmadqasem/.nuget/packages/",
-      "outputPath": "/Users/ahmadqasem/ahmad/Bank/BankAPI/obj/",
+      "outputPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/BankAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmadqasem/.nuget/NuGet/NuGet.Config"
@@ -12097,8 +12097,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ahmadqasem/ahmad/Bank/Bank.Business/Bank.Business.csproj": {
-              "projectPath": "/Users/ahmadqasem/ahmad/Bank/Bank.Business/Bank.Business.csproj"
+            "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/Bank.Business.csproj": {
+              "projectPath": "/Users/ahmadqasem/Desktop/BankSystemAPI/Bank.Business/Bank.Business.csproj"
             }
           }
         }
