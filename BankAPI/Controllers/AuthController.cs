@@ -35,16 +35,7 @@ namespace BankAPI.Controllers
     [HttpPost("register")]
     public async Task<IActionResult> Register( NewCustomerDto newCustomerDto)
     { 
-        /*if (newCustomerDto == null)
-            return BadRequest("Invalid customer data");
-
-        var customer = _mapper.Map<Customer>(newCustomerDto);
-        var result = await _userManager.CreateAsync(customer, newCustomerDto.Password);
-
-        if (!result.Succeeded)
-            return BadRequest(result.Errors);
-
-        return Ok("Customer registered successfully");*/
+        
         if(ModelState.IsValid) 
         {
             var customer = _mapper.Map<Customer>(newCustomerDto);
